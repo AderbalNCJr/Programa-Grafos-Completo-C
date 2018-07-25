@@ -31,13 +31,23 @@ O programa possui as seguintes funções:
 O programa possui os seguintes Algoritmos:
 
 -> Algoritmo de Busca em Profundidade
+
 -> Algoritmo de Busca em Largura
+
 -> Algoritmo de Pontes
+
 -> Algoritmo de Articulações
+
 -> Algoritmo de Dijkstra
+
 -> Algoritmo de BellmanFord
+
 -> Algoritmo de FloydWarshall
+
 -> Algoritmo de Prim
+
 -> Algoritmo de Kruskal
+
 -> Algoritmo de Hierholzer
+
 -> Algoritmo de Fleury
