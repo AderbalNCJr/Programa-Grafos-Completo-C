@@ -7,15 +7,25 @@ O programa está implementado em C
 O programa possui as seguintes funções:
 
 -> Criar matriz [ l ] [ c ] vazia
+
 -> Criar vetor [ n ] vazio
+
 -> Criar um grafo vazio de n vertices
+
 -> Inserir uma aresta em um grafo
+
 -> Inserir uma aresta em um grafo com peso
+
 -> Inserir um arco em um grafo direcionado com peso
+
 -> Remover uma aresta de um grafo
+
 -> Imprimir um grafo
+
 -> Destruir um grafo
+
 -> Exibir os graus dos vertices de um grafo
+
 -> Leitura de arquivos (pasta Algoritmos de Teste)
 
 O programa possui os seguintes Algoritmos:
